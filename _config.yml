@@ -1,9 +1,3 @@
-# description: >- # this means to ignore newlines until "baseurl:"
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "dnd.tylercraig.me"
-# github_username:  tjhamlet
-# avatar: assets/img/sidebardImage.png
-
 # The Site Configuration
 
 # Import the theme
@@ -43,12 +37,8 @@ social:
   name: Tyler Craig
   email: Tyler@tylercraig.me
   links:
-    # The first element serves as the copyright owner's link
     - https://tylercraig.me
-    - https://github.com/tjhamlet # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/tjhamlet
 
 google_site_verification: # fill in to your verification string
 

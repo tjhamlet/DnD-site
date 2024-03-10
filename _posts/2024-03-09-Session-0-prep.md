@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Session #0 prep"
-categories: []
+categories: [Chapter 1]
 author: Tyler Craig
 ---
 

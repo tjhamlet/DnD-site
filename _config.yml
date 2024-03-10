@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dnd.tylercraig.me"
 github_username:  tjhamlet
-avatar: img/image.png
+avatar: img/sidebardImage.png
 
 # Site settings
 permalink: /:title/
